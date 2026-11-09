@@ -1,0 +1,22 @@
+# Gmail API
+google-api-python-client>=2.100.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+
+# LLM
+google-generativeai>=0.8.0
+
+# Data validation
+pydantic>=2.5.0
+
+# Email cleaning
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
